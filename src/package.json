@@ -1,0 +1,28 @@
+{
+  "name": "robo_friends",
+  "version": "1.0.0",
+  "description": "simple React project for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirJalilehvand/RoboFriends.git"
+  },
+  "author": "amirJalilehvand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirJalilehvand/RoboFriends/issues"
+  },
+  "homepage": "https://github.com/amirJalilehvand/RoboFriends#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-scripts": "^4.0.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6"
+  }
+}
